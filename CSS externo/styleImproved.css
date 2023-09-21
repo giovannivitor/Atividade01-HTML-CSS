@@ -1,0 +1,51 @@
+#div_A {
+    background-image: linear-gradient(to right,rgb(13, 13, 148), rgb(126, 127, 182));
+    margin: auto;
+    width: 98%;
+    height: 500px;
+}
+#div_B {
+    background-color: #888079;
+    width: 100%;
+    height: 5%;
+}
+#p_C {
+    color: black;
+    background-color: rgb(230, 230, 230);
+    font-size: 20px;
+    font-family: serif;
+    font-weight: normal;
+}
+/*
+#div_window {
+    background-image: radial-gradient(circle, rgb(184, 176, 176), rgb(104, 95, 95));
+    width: 600px;
+    height: 300px;
+    margin: 10%;
+    border-radius: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+#div_Iwindow {
+    background-color: white;
+    width: 95%;
+    height: 95%;
+    border-radius: 10px;
+}
+*/
+#div_D {
+    margin: auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 98%;
+    height: 14vh;
+    background-color: rgb(152, 167, 185);
+}
+#div_E {
+    border-radius: 10px;
+    width: 97%;
+    height: 50%;
+    background-color: rgb(104, 143, 167);
+}

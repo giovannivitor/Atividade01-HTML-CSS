@@ -1,0 +1,33 @@
+#div_A {
+    background-color: #7e7fb6;
+    margin: auto;
+    width: 98%;
+    height: 500px;
+}
+#div_B {
+    background-color: #888079;
+    width: 100%;
+    height: 5%;
+}
+#p_C {
+    color: black;
+    background-color: rgb(230, 230, 230);
+    font-size: 20px;
+    font-family: serif;
+    font-weight: normal;
+}
+#div_D {
+    margin: auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 98%;
+    height: 14vh;
+    background-color: rgb(152, 167, 185);
+}
+#div_E {
+    border-radius: 10px;
+    width: 97%;
+    height: 50%;
+    background-color: rgb(104, 143, 167);
+}
